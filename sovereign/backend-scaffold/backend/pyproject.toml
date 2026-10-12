@@ -1,0 +1,8 @@
+[project]
+name = "sovereign-ai-workbench-backend"
+version = "0.1.0"
+description = "Sovereign AI Workbench \u2014 FastAPI backend (SIH26117)"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
